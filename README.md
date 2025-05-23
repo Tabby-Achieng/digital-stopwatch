@@ -1,1 +1,1 @@
-# DIGITAL STOPWATCH
+# Digital stopwatch
